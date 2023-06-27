@@ -8,3 +8,5 @@ I go by Spade, however do to the username "Spade" being taken on the majority of
 - 💬 Ask me about my intrests, hobbys, specialtys, books ive recently read, anything really.
 - 📫 How to reach me: discord via "spadespadespadespadespadespade", or my site "spade.monster"
 
+  ![Spade's GitHub stats](https://github-readme-stats.vercel.app/api?username=RelativeSpade&show_icons=true&theme=dark)
+
