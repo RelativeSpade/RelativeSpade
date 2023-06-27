@@ -1,6 +1,6 @@
 ### Hello there 👋,
 I go by Spade, however do to the username "Spade" being taken on the majority of sites i wish to register on i usually end up as "RelativeSpade", "IAmSpade", or "spadespadespadespadespadespade" and will ususally respond to any of them
-
+i've been learning development and coding on and off since early 2020, while it scurrently a hobby for me I do intend to hopefully get a job doing it in the future
 - 🔭 I’m currently working on Voxel Rendering
 - 🌱 I’m currently learning C++ Game Development, and furthering my Skript knowledgge
 - 👯 I’m looking to collaborate on Skript Projects, im always looking to learn new things and doing projects help me learn
