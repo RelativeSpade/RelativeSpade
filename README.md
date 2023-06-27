@@ -1,5 +1,5 @@
 ### Hello there 👋,
-I Am Spade, however do to the username "Spade" being taken on the majority of sites i wish to register on i usually end up as "RelativeSpade", "IAmSpade", or "spadespadespadespadespadespade" and will ususally respond to any of them
+I go by Spade, however do to the username "Spade" being taken on the majority of sites i wish to register on i usually end up as "RelativeSpade", "IAmSpade", or "spadespadespadespadespadespade" and will ususally respond to any of them
 
 - 🔭 I’m currently working on Voxel Rendering
 - 🌱 I’m currently learning C++ Game Development, and furthering my Skript knowledgge
