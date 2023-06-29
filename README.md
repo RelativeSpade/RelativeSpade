@@ -8,7 +8,7 @@ i've been learning development and coding on and off since early 2020, while it'
 - 👯 I’m looking to collaborate on Skript Projects, im always looking to learn new things and doing projects help me learn
 - 🤔 I’m looking for help with nothing atm.
 - 💬 Ask me about my intrests, hobbys, specialtys, books ive recently read, anything really.
-  ![Discord](https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg)]
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
   ![Spade's GitHub stats](https://github-readme-stats.vercel.app/api?username=RelativeSpade&show_icons=true&theme=dark)
 
