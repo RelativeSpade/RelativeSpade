@@ -9,8 +9,6 @@ i've been learning development and coding on and off since early 2020, while it'
 - 🤔 I’m looking for help with nothing atm.
 - 💬 Ask me about my intrests, hobbys, specialtys, books ive recently read, anything really.
   
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white) <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamspade&label=Views&color=ff0000&style=flat-square" alt="iamspade" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/relativespade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="relativespade" height="30" width="40" /></a>
