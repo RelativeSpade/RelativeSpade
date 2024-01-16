@@ -1,13 +1,13 @@
 ### Hello there 👋,
-I go by Spade, however do to the username "Spade" being taken on the majority of sites i wish to register on i usually end up as "RelativeSpade", "IAmSpade", or "spadespadespadespadespadespade" and will ususally respond to any of them
+I go by Spade, however, due to the username "Spade" being taken on the majority of sites I wish to register on I usually end up as "RelativeSpade", "IAmSpade", or "spadespadespadespadespadespade" and will usually respond to any of them
 
-i've been learning development and coding on and off since early 2020, while it's currently a hobby for me I do intend to hopefully get a job doing it in the future
+I've been learning development and coding on and off since early 2020, while it's currently a hobby for me I do intend to get a job doing it in the future hopefully
 
 - 🔭 I’m currently working on Voxel Rendering
-- 🌱 I’m currently learning C++ Game Development, and furthering my Skript knowledgge
-- 👯 I’m looking to collaborate on Skript Projects, im always looking to learn new things and doing projects help me learn
+- 🌱 I’m currently learning LWJGL
+- 👯 I’m looking to collaborate on Skript Projects, im always looking to learn new things, and doing projects helps me learn
 - 🤔 I’m looking for help with nothing atm.
-- 💬 Ask me about my intrests, hobbys, specialtys, books ive recently read, anything really.
+- 💬 Ask me about my interests, hobbies, specialties, and books I've recently read.
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
