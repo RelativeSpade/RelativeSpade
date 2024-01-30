@@ -5,7 +5,6 @@ I've been learning development and coding on and off since early 2020, while it'
 
 - 🔭 I’m currently working on Voxel Rendering
 - 🌱 I’m currently learning LWJGL
-- 👯 I’m looking to collaborate on Skript Projects, im always looking to learn new things, and doing projects helps me learn
 - 🤔 I’m looking for help with nothing atm.
 - 💬 Ask me about my interests, hobbies, specialties, and books I've recently read.
   
