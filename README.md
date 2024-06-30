@@ -2,9 +2,6 @@
 I go by Spade, however, due to the username "Spade" being taken on the majority of sites I wish to register on I usually end up as "RelativeSpade", "IAmSpade", or "spadespadespadespadespadespade" and will usually respond to any of them
 
 I've been learning development and coding on and off since early 2020, while it's currently a hobby for me I do intend to get a job doing it in the future hopefully
-
-- 🔭 I’m currently working on Spigot development
-- 💬 Ask me about my interests, hobbies, specialties, and books I've recently read.
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
