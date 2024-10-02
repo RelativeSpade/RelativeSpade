@@ -1,7 +1,7 @@
 ### Hello there 👋,
 I go by Spade, however, due to the username "Spade" being taken on the majority of sites I wish to register on I usually end up as "RelativeSpade", "IAmSpade", or "spadespadespadespadespadespade".
 
-I've been learning development and coding on and off since early 2020, while it's currently a hobby for me I do intend to get a job doing it in the future hopefully
+I've been learning development and coding on and off since early 2018, while it's currently a hobby for me I do intend to get a job doing it in the future hopefully
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
