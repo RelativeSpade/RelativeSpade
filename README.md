@@ -1,4 +1,5 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=435&lines=Hello+there+%F0%9F%91%8B%2C)](null)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=true&width=1500&height=60&separator=%3C&lines=I+am+Spade;+this+is+where+I+host+my+projects%2C+you+are+welcome+to+contact+me+on+discord+%40+spadespadespadespadespadespade)](null)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
